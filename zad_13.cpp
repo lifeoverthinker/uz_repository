@@ -1,50 +1,25 @@
+// iloczyn (z1, z2) i  iloraz (z1, z2) dwóch liczb zespolonych ( z1= a+bi, z2= c+di )
 #include <iostream>
 using namespace std;
 
-struct LiczbaZespolona {
-    double rzeczywista;
-    double urojona;
-};
-
-// Funkcja do mnożenia dwóch liczb zespolonych
-LiczbaZespolona pomnoz(LiczbaZespolona z1, LiczbaZespolona z2) {
-    LiczbaZespolona wynik;
-    wynik.rzeczywista = z1.rzeczywista * z2.rzeczywista - z1.urojona * z2.urojona;
-    wynik.urojona = z1.rzeczywista * z2.urojona + z1.urojona * z2.rzeczywista;
-    return wynik;
-}
-
-// Funkcja do dzielenia dwóch liczb zespolonych
-LiczbaZespolona podziel(LiczbaZespolona z1, LiczbaZespolona z2) {
-    LiczbaZespolona wynik;
-    double mianownik = z2.rzeczywista * z2.rzeczywista + z2.urojona * z2.urojona;
-    wynik.rzeczywista = (z1.rzeczywista * z2.rzeczywista + z1.urojona * z2.urojona) / mianownik;
-    wynik.urojona = (z1.urojona * z2.rzeczywista - z1.rzeczywista * z2.urojona) / mianownik;
-    return wynik;
-}
-
 int main() {
-    // Wprowadź liczby zespolone
-    LiczbaZespolona z1, z2;
-    cout << "Podaj część rzeczywistą i urojoną liczby z1:" << endl;
-    cout << "Część rzeczywista: ";
-    cin >> z1.rzeczywista;
-    cout << "Część urojona: ";
-    cin >> z1.urojona;
+    float a,b;
+    cout << "Podaj wartość a liczby z1=a+bi: ";
+    cin >> a;
+    cout << "Podaj wartość b liczby z1=a+bi: ";
+    cin >> b;
 
-    cout << "Podaj część rzeczywistą i urojoną liczby z2:" << endl;
-    cout << "Część rzeczywista: ";
-    cin >> z2.rzeczywista;
-    cout << "Część urojona: ";
-    cin >> z2.urojona;
+    float c,d;
+    cout << "Podaj wartość c liczby z2=c+di: ";
+    cin >> c;
+    cout << "Podaj wartość d liczby z2=c+di: ";
+    cin >> d;
 
-    // Oblicz iloczyn i iloraz
-    LiczbaZespolona iloczyn = pomnoz(z1, z2);
-    LiczbaZespolona iloraz = podziel(z1, z2);
+    cout << "\n";
 
-    // Wyświetl wyniki
-    cout << "Iloczyn z1 * z2: " << iloczyn.rzeczywista << " + " << iloczyn.urojona << "i" << endl;
-    cout << "Iloraz z1 / z2: " << iloraz.rzeczywista << " + " << iloraz.urojona << "i" << endl;
-
-    return 0;
+    // iloczyn z1 i z2
+    cout << "Iloczyn z1 i z2:\t" << a*c-b*d << " + " << a*d+b*c << "i\n";
+    // iloraz z1 i z2
+    cout << "Iloraz z1 i z2:\t\t" << (a*c+b*d)/(c*c+d*d) << " + " << (b*c-a*d)/(c*c+d*d) << "i";
+    return EXIT_SUCCESS;
 }
