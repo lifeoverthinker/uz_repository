@@ -1,12 +1,9 @@
-// Dany jest tekst złożony ze znaków ASCII podzielony na zdania. Koniec każdego zdania jest oznaczony
-// przez ’.’. Tekst należy wczytać do tablicy jednowymiarowej i policzyć słowa w każdym zdaniu osobno.
-
 #include <iostream>
 using namespace std;
 
 int main() {
     int words=1;
-    constexpr char str[]= "Ala ma kota. Kot jej nie kocha. Ala wyjebała kota z domu.";
+    char str[]= "Ala ma kota. Kot ma Ale. Ala i kota ida do domu.";
 
     // Split string into sentences. If ' ' and '.' are neighbors, remove ' '.
     for (int i=0; i<sizeof(str); i++) {
@@ -21,7 +18,6 @@ int main() {
             words--;
         }
     }
-
 
     return EXIT_SUCCESS;
 }

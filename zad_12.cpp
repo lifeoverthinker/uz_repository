@@ -1,10 +1,11 @@
 // Dla tablicy znakowej odwróć kolejność elementów
 #include <iostream>
+using namespace std;
 
 int main() {
-    constexpr char tab[] = "Hello, World!";
+    char tab[] = "Hello, World!";
     for (int i = sizeof(tab) - 2; i >= 0; --i) {
-        std::cout << tab[i];
+        cout << tab[i];
     }
     return 0;
 }

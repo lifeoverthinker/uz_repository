@@ -7,15 +7,15 @@
 using namespace std;
 
 int main() {
-    int input, sum = 0, count = 0;
+    int liczba, sum = 0, count = 0;
 
     while (true) {
         cout << "Podaj liczbe (Koniec: '0'): ";
-        cin >> input;
-        if (input == 0) {
+        cin >> liczba;
+        if (liczba == 0) {
             break;
         }
-        sum += input;
+        sum += liczba;
         count++;
     }
 
