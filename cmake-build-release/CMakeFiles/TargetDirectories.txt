@@ -1,3 +1,0 @@
-/Users/ja/Documents/GitHub/uz_repository/cmake-build-release/CMakeFiles/uz_repository.dir
-/Users/ja/Documents/GitHub/uz_repository/cmake-build-release/CMakeFiles/edit_cache.dir
-/Users/ja/Documents/GitHub/uz_repository/cmake-build-release/CMakeFiles/rebuild_cache.dir
