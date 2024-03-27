@@ -22,4 +22,5 @@ add_executable(lab_1
         #zad_16.cpp
         #zad_17.cpp
         #zad_18.cpp
-        zad_19.cpp)
+        zad_19.cpp
+)

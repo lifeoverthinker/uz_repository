@@ -55,56 +55,8 @@ build CMakeFiles/lab_1.dir/zad_19.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Us
   OBJECT_DIR = CMakeFiles/lab_1.dir
   OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
 
-build CMakeFiles/lab_1.dir/zad_01.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_01.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_01.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_02.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_02.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_02.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_03.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_03.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_03.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_04.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_04.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_04.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_05.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_05.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_05.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_06.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_06.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_06.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_07.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_07.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_07.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_08.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_08.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_08.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/lab_1.dir
-  OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
-
-build CMakeFiles/lab_1.dir/zad_09.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/zad_09.cpp || cmake_object_order_depends_target_lab_1
-  DEP_FILE = CMakeFiles/lab_1.dir/zad_09.cpp.o.d
+build CMakeFiles/lab_1.dir/test.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Users/ja/Documents/GitHub/uz_repository/programowanie_obiektowe/lab_1/test.cpp || cmake_object_order_depends_target_lab_1
+  DEP_FILE = CMakeFiles/lab_1.dir/test.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/lab_1.dir
   OBJECT_FILE_DIR = CMakeFiles/lab_1.dir
@@ -117,7 +69,7 @@ build CMakeFiles/lab_1.dir/zad_09.cpp.o: CXX_COMPILER__lab_1_unscanned_Debug /Us
 #############################################
 # Link the executable lab_1
 
-build lab_1: CXX_EXECUTABLE_LINKER__lab_1_Debug CMakeFiles/lab_1.dir/zad_19.cpp.o CMakeFiles/lab_1.dir/zad_01.cpp.o CMakeFiles/lab_1.dir/zad_02.cpp.o CMakeFiles/lab_1.dir/zad_03.cpp.o CMakeFiles/lab_1.dir/zad_04.cpp.o CMakeFiles/lab_1.dir/zad_05.cpp.o CMakeFiles/lab_1.dir/zad_06.cpp.o CMakeFiles/lab_1.dir/zad_07.cpp.o CMakeFiles/lab_1.dir/zad_08.cpp.o CMakeFiles/lab_1.dir/zad_09.cpp.o
+build lab_1: CXX_EXECUTABLE_LINKER__lab_1_Debug CMakeFiles/lab_1.dir/zad_19.cpp.o CMakeFiles/lab_1.dir/test.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/lab_1.dir
   POST_BUILD = :
