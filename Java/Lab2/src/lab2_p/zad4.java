@@ -1,38 +1,51 @@
 package lab2_p;
-
+import java.lang.Math;
 import java.util.Scanner;
 
-//zamienic tablice na liste bo nie wiemy ile wprowadzimy liczb
-
 public class zad4 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Ile liczb chcesz wprowadzic?");
-        int n = sc.nextInt();
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
 
-        double[] liczby = new double[n];
+        int x;
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        int sum = 0;
+        int count = 0;
 
-        for (int i = 0; i < n; i++) {
-            System.out.println("Podaj liczbę nr"+(i+1));
-            liczby[i] = sc.nextDouble();
+        System.out.println("Wcisnij 'Enter' aby zakonczyc");
+        while (true) {
+            System.out.print("Podaj liczbę: ");
+            String input = scanner.nextLine();
+
+            if (input.equalsIgnoreCase("")) {
+                break;
+            }
+            x = Integer.parseInt(input);
+
+
+            count++;
+            sum += x;
+            if(min > x){
+                min = x;
+            }
+            // min = Math.min(min,x);
+
+            if(max < x){
+                max = x;
+            }
+            //max = Math.max(max,x);
+
         }
+        double srednia = sum/count;
 
-        double min  = liczby[0];
-        double max = liczby[0];
-        double sum = 0;
+        System.out.println("Suma liczb to: "+ sum);
+        System.out.println("Ilośc liczb to: "+ count);
+        System.out.println("Średnia liczb to: "+ srednia);
+        System.out.println("Najmniejsza liczba to: "+ min);
+        System.out.println("Największa liczba to: "+ max);
 
-        for (double num : liczby) {
-            if (num < min) min = num;
 
-            if (num > max) max = num;
 
-            sum += num;
-        }
 
-        double srednia = sum/n;
-
-        System.out.println("Min: " + min);
-        System.out.println("Max: " + max);
-        System.out.println("Średnia: " + max);
     }
 }

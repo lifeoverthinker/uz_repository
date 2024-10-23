@@ -1,19 +1,19 @@
-/*package lab2_p;
+package lab2_p;
 
 import java.util.Scanner;
 
 public class zad3 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Podaj predkosc w mph:");
-        double mph = sc.nextDouble();
-        double km_h = convertMilesToKilometers(mph);
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.printf("%.2f mph = %.2f km/h", mph, km_h);
+        double km;
+        double ml;
+        System.out.print("Podaj Predkosc samochodu w milach: ");
+        ml = scanner.nextDouble(); // zczytuje dane z klawiatury i zapisuje do zmiennej ml
 
-        public static double convertMilesToKilometers(double miles){
-            return miles * 1.60934;
-        }
+        km = ml * 1.6093440;
+
+        System.out.println(ml + " mil to " + km + " Kilometrow");
+
     }
 }
-*/

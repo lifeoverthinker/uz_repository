@@ -1,49 +1,44 @@
 package lab2_p;
-
 import java.util.Scanner;
 
 public class zad5 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Podaj pierwszą liczbę:");
-        double a = sc.nextDouble();
-        System.out.println("Podaj drugą liczbę:");
-        double b = sc.nextDouble();
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Wybierz operację (+, -, /, *):");
-        char znak = sc.next().charAt(0);
+        double a,b;
+        char operation;
 
-        double wynik = 0;
-        boolean poprawna_operacja = true;
+        System.out.print("Podaj a: ");
+        a = scanner.nextDouble();
 
-        switch (znak) {
+        System.out.print("Podaj operację (+, -, *, /): ");
+        operation = scanner.next().charAt(0);
+
+        System.out.print("Podaj b: ");
+        b = scanner.nextDouble();
+
+        double result=0;
+        switch (operation) {
             case '+':
-                wynik = a + b;
+                result = a + b;
                 break;
-
             case '-':
-                wynik = a - b;
+                result = a - b;
                 break;
-
             case '*':
-                wynik = a * b;
+                result = a * b;
                 break;
-
             case '/':
-                if (b != 0){
-                    wynik = (double) a / b;
-                }else {
-                    System.out.println("Niepoprawna operacja");
-                    poprawna_operacja = false;
+                if (b == 0) {
+                    System.out.println("Nie można dzielić przez 0");
+                    return;
                 }
+                result = a / b;
                 break;
-
             default:
-                System.out.println("Niepoprawna operacja");
-                poprawna_operacja = false;
+                System.out.println("Nieznana operacja");
+                return;
         }
-        if(poprawna_operacja){
-            System.out.println("Wynik: " + wynik);
-        }
+        System.out.println(a + " " + operation + " " + b + " = " + result);
     }
 }
