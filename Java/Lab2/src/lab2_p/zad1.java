@@ -15,12 +15,13 @@ public class zad1 {
                 System.out.print(" ");
             }
 
-            //liczba drukowanych gwiazdek
+            //liczba drukowanych gwiazdek w wierszu
             for(int j = 0; j < (i*2)-1; j++) {
                 System.out.print("*");
             }
 
-            System.out.println("\n");
+            // Przejście do nowej linii po zakończeniu rysowania jednego wiersza
+            System.out.println();
         }
     }
 }

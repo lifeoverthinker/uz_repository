@@ -15,12 +15,12 @@ public class zad3 {
             proba = input.nextInt();
 
             if (proba == wylosowanaLiczba) {
-                System.out.println("Brawo! Trafiłeś! Wylosowana liczba to: " + wylosowanaLiczba);
+                System.out.println("Brawo! Trafiłeś!\nWylosowana liczba to: " + wylosowanaLiczba);
                 break;
             } else if (proba < wylosowanaLiczba) {
-                System.out.println("Podana liczba jest za niska.");
+                System.out.println("Liczba jest za mała.");
             } else {
-                System.out.println("Podana liczba jest za wysoka.");
+                System.out.println("Liczba jest za duża.");
             }
         } while (proba != wylosowanaLiczba);
     }

@@ -49,7 +49,7 @@ public class zad1 {
             System.out.println("Średnia dla liczb nieparzystych: " + srednia_n);
         }
 
-        // Obliczenie i wyświetlenie stosunku
+        // Obliczenie i wyświetlenie stosunku srednich
         if (srednia_p != 0) {
             double ulamek = srednia_n / srednia_p;
             System.out.println("\nStosunek średniej arytmetycznej nieparzystych do parzystych: " + ulamek);
