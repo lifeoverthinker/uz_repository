@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class zad2 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Podaj liczbę całkowitą: ");
         
-        int liczba = scanner.nextInt();
+        int liczba = sc.nextInt();
         int dzielnik = 1;
         
         System.out.println("Dzielniki liczby " + liczba + " to:");

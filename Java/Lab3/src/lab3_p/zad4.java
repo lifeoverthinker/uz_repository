@@ -16,6 +16,7 @@ public class zad4 {
             liczba = sc.nextInt();
 
             if (liczba == 5) {
+                wynik *= liczba;
                 break;
             }
             wynik *= liczba;

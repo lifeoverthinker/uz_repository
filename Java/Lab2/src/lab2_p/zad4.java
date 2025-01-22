@@ -19,7 +19,7 @@ public class zad4 {
         // Pętla do wprowadzania liczb
         while (true) {
             System.out.print("Podaj liczbę: ");
-            String input = scanner.nextLine(); // Wczytanie linii tekstu od użytkownika
+            String input = scanner.nextLine();
 
             // Jeśli użytkownik wciśnie Enter bez podania liczby, zakończ wprowadzanie
             if (input.equalsIgnoreCase("")) {

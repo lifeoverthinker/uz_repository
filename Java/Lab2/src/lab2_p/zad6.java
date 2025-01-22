@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 public class zad6 {
 
-    /**
-     * Metoda oblicza oprocentowanie w zależności od liczby miesięcy.
-     * @param miesiace liczba miesięcy spłaty
-     * @return oprocentowanie w postaci ułamka dziesiętnego
-     */
     private static double obliczOprocentowanie(int miesiace) {
         if (1 < miesiace && miesiace <= 24) return 0.02; // Oprocentowanie 2% dla okresu 1-24 miesięcy
         if (24 < miesiace && miesiace <= 48) return 0.03; // Oprocentowanie 3% dla okresu 25-48 miesięcy
@@ -18,13 +13,6 @@ public class zad6 {
         throw new IllegalArgumentException("Liczba miesięcy poza zakresem (1 - 96).");
     }
 
-    /**
-     * Metoda oblicza miesięczną ratę leasingową.
-     * @param calkowitaCena całkowita kwota leasingu
-     * @param wkladWlasny kwota wkładu własnego
-     * @param miesiace liczba miesięcy spłaty
-     * @return miesięczna rata leasingowa
-     */
     private static double obliczMiesiecznaRate(double calkowitaCena, double wkladWlasny, int miesiace) {
         return ((calkowitaCena - wkladWlasny) * (1 + obliczOprocentowanie(miesiace))) / miesiace;
     }
@@ -54,6 +42,6 @@ public class zad6 {
         double miesiecznaRata = obliczMiesiecznaRate(cena, wkladWlasny, miesiace);
 
         // Wyświetlenie wyniku
-        System.out.printf("Miesięczna rata leasingowa wynosi: %.2f PLN%n", miesiecznaRata);
+        System.out.println("Miesięczna rata leasingowa wynosi: "+ miesiecznaRata + " PLN");
     }
 }

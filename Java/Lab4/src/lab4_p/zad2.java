@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class zad2 {
     public static void main(String[] args) {
-        Random random = new Random();
+        Random r = new Random();
         int[][] macierz = new int[7][7];
         int[][] minMax = new int[2][7];
         int[][] odwroconaMacierz = new int[7][7];
@@ -11,7 +11,7 @@ public class zad2 {
         // Wypełnienie macierzy losowymi liczbami
         for (int wiersz = 0; wiersz < 7; wiersz++) {
             for (int kolumna = 0; kolumna < 7; kolumna++) {
-                macierz[wiersz][kolumna] = random.nextInt(100); // Losowanie liczb od 0 do 99
+                macierz[wiersz][kolumna] = r.nextInt(100)+1; // Losowanie liczb od 1 do 99
             }
         }
 
@@ -44,14 +44,14 @@ public class zad2 {
 
         // Liczenie elementów mniejszych i większych od średniej
         int liczbaMniejszych = 0;
-        int liczbaWiększych = 0;
+        int liczbaWiekszych = 0;
         for (int wiersz = 0; wiersz < 7; wiersz++) {
             for (int kolumna = 0; kolumna < 7; kolumna++) {
                 if (macierz[wiersz][kolumna] < srednia) {
                     liczbaMniejszych++;
                 }
                 if (macierz[wiersz][kolumna] > srednia) {
-                    liczbaWiększych++;
+                    liczbaWiekszych++;
                 }
             }
         }
@@ -93,6 +93,6 @@ public class zad2 {
 
         System.out.println("Średnia arytmetyczna: " + srednia);
         System.out.println("Liczba elementów mniejszych od średniej: " + liczbaMniejszych);
-        System.out.println("Liczba elementów większych od średniej: " + liczbaWiększych);
+        System.out.println("Liczba elementów większych od średniej: " + liczbaWiekszych);
     }
 }

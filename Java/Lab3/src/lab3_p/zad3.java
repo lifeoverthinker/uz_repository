@@ -5,14 +5,15 @@ import java.util.Random;
 
 public class zad3 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         Random generator = new Random();
         int wylosowanaLiczba = generator.nextInt(200) + 1;
         int proba;
+        System.out.println("Wylosowana liczba: " + wylosowanaLiczba);
 
         do {
             System.out.print("Zgadnij liczbę: ");
-            proba = input.nextInt();
+            proba = sc.nextInt();
 
             if (proba == wylosowanaLiczba) {
                 System.out.println("Brawo! Trafiłeś!\nWylosowana liczba to: " + wylosowanaLiczba);
