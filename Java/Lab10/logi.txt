@@ -1,500 +1,200 @@
-id_filmu: 380, id_uzytkownika: 98, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 413, id_uzytkownika: 64, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 292, id_uzytkownika: 45, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 792, id_uzytkownika: 52, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 921, id_uzytkownika: 7, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 451, id_uzytkownika: 17, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 882, id_uzyid_filmu: 250, id_uzytkownika: 9, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 163, id_uzytkownika: 44, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 171, id_uzytkownika: 66, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 24, id_uzytkownika: 25, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 708, id_uzytkownika: 98, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 971, id_uzytkownika: 1, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 199, id_uzytkid_filmu: 274, id_uzytkownika: 56, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 69, id_uzytkownika: 2, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 636, id_uzytkownika: 93, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 790, id_uzytkownika: 11, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 498, id_uzytkownika: 47, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 697, id_uzytkownika: 74, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 220, id_uzytid_filmu: 345, id_uzytkownika: 4, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 445, id_uzytkownika: 79, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 674, id_uzytkownika: 75, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 786, id_uzytkownika: 23, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 43, id_uzytkownika: 53, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 332, id_uzytkownika: 40, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 613, id_uzytid_filmu: 286, id_uzytkownika: 45, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 294, id_uzytkownika: 1, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 55, id_uzytkownika: 3, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 714, id_uzytkownika: 49, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 361, id_uzytkownika: 83, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 683, id_uzytkownika: 86, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 384, id_uzytktkownika: 36, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 148, id_uzytkownika: 29, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 819, id_uzytkownika: 32, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 914, id_uzytkownika: 1, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-ownika: 28, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 341, id_uzytkownika: 42, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 363, id_uzytkownika: 10, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 816, id_uzytkownika: 27, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-ownika: 73, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 204, id_uzytkownika: 54, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 403, id_uzytkownika: 20, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 930, id_uzytkownika: 57, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-kownika: 20, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 82, id_uzytkownika: 56, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 978, id_uzytkownika: 36, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 195, id_uzytkownika: 78, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-kownika: 57, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 6, id_uzytkownika: 21, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 746, id_uzytkownika: 77, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 190, id_uzytkownika: 46, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 633, id_uzytkownika: 59, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 187, id_uzytkownika: 15, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 822, id_uzytkownika: 38, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 577, id_uzytkownika: 5, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 305, id_uzytkownika: 70, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 391, id_uzytkownika: 83, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 392, id_uzyid_filmu: 279, id_uzytkownika: 13, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 30, id_uzytkownika: 17, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 795, id_uzytkownika: 35, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 745, id_uzytkownika: 81, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 325, id_uzytkownika: 43, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 645, id_uzytkownika: 69, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 30, id_uzyttkownika: 28, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 644, id_uzytkownika: 8, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 621, id_uzytkownika: 12, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 604, id_uzytkownika: 17, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 690, id_uzytkownika: 0, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 766, id_uzytkownika: 5, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 238, id_uzytkownika: 13, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 82, id_uzytkownika: 3, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 177, id_uzytkownika: 91, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 813, id_uzytkownika: 4, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 776, id_uzytkowid_filmu: 410, id_uzytkownika: 44, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 308, id_uzytkownika: 82, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 634, id_uzytkownika: 31, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 800, id_uzytkownika: 57, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 184, id_uzytkownika: 79, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 766, id_uzytkownika: 44, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 526, id_uzkownika: 85, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 86, id_uzytkownika: 79, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 233, id_uzytkownika: 84, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 434, id_uzytkownika: 21, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-ytkownika: 97, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 581, id_uzytkownika: 87, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 645, id_uzytkownika: 39, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 773, id_uzytkownika: 56, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-nika: 7, ocena: 1, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 583, id_uzytkownika: 69, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 60, id_uzytkownika: 45, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 11, id_uzytkownika: 4, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 841, id_uzytkownika: 41, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 757, id_uzytkownika: 73, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 96, id_uzytkownika: 90, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 150, id_uzytkownika: 85, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 247, id_uzytkownika: 0, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 534, id_uzytkownika: 60, ocena: 4, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 532, id_uzytkownika: 55, ocena: 0, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 720, id_uzytkownika: 63, ocena: 3, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 224, id_uzytkownika: 10, ocena: 2, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 557, id_uzytkownika: 46, ocena: 5, data_glosowania: 2025-01-22 21:51:30
-id_filmu: 876, id_uzytkownika: 41, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 732, id_uzytkownika: 12, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 420, id_uzytkownika: 21, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 58, id_uzytkownika: 6, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 282, id_uzytkownika: 19, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 415, id_uzytkownika: 31, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 784, id_uzytid_filmu: 651, id_uzytkownika: 60, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 30, id_uzytkownika: 86, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 26, id_uzytkownika: 38, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 316, id_uzytkownika: 16, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 128, id_uzytkownika: 94, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 591, id_uzytkownika: 22, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 975, id_uzytid_filmu: 371, id_uzytkownika: 23, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 651, id_uzytkownika: 20, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 253, id_uzytkownika: 3, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 811, id_uzytkownika: 82, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 938, id_uzytkownika: 79, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 72, id_uzytkownika: 88, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 885, id_uzytid_filmu: 410, id_uzytkownika: 92, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 598, id_uzytkownika: 41, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 90, id_uzytkownika: 0, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 442, id_uzytkownika: 10, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 24, id_uzytkownika: 16, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 296, id_uzytkownika: 12, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 539, id_uzytkid_filmu: 471, id_uzytkownika: 11, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 607, id_uzytkownika: 39, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 991, id_uzytkownika: 89, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 928, id_uzytkownika: 31, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 301, id_uzytkownika: 85, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 519, id_uzytkownika: 7, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 677, id_uzykownika: 9, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 745, id_uzytkownika: 90, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 247, id_uzytkownika: 75, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 387, id_uzytkownika: 10, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-kownika: 6, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 989, id_uzytkownika: 89, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 558, id_uzytkownika: 63, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 892, id_uzytkownika: 86, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 359, id_uzytkownika: 73, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 896, id_uzytkownika: 12, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 666, id_uzytkownika: 29, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 262, id_uzytkownika: 45, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 530, id_uzytkownika: 62, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 617, id_uzytkownika: 12, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 883, id_uzkownika: 95, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 569, id_uzytkownika: 71, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 273, id_uzytkownika: 26, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 31, id_uzytkownika: 33, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-ownika: 60, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 289, id_uzytkownika: 55, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 329, id_uzytkownika: 52, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 798, id_uzytkownika: 39, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 217, id_uzytkownika: 6, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 580, id_uzytkownika: 16, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 562, id_uzytkownika: 70, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 850, id_uzytkownika: 14, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 920, id_uzytkownika: 75, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 319, id_uzytkownika: 35, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 356, id_uzytkownika: 76, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 410, id_uzytkownika: 87, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 224, id_uzytkownika: 70, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 873, id_uzytkownika: 38, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-ytkownika: 51, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 224, id_uzytkownika: 21, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 242, id_uzytkownika: 59, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 715, id_uzytkownika: 92, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 427, id_uzytkownika: 62, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 521, id_uzytkownika: 51, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 262, id_uzytkownika: 50, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 30, id_uzytkownika: 74, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 280, id_uzytkownika: 70, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 501, id_uzytkownika: 9, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 83, id_uzytkid_filmu: 117, id_uzytkownika: 65, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 945, id_uzytkownika: 67, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 39, id_uzytkownika: 5, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 70, id_uzytkownika: 24, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 386, id_uzytkownika: 89, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 394, id_uzytkownika: 83, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 178, id_uzytkownika: 67, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 687, id_uzytkownika: 40, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 578, id_uzytkownika: 99, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 409, id_uzytkownika: 66, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 618, id_uzytkownika: 94, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 60, id_uzytkownika: 12, ocena: 1, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 843, id_uzytkownika: 2, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 551, id_uzytkownika: 76, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 204, id_uzytkownika: 11, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 345, id_uzytkownika: 4, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 268, id_uzytktkownika: 48, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 380, id_uzytkownika: 84, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 376, id_uzytkownika: 33, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 952, id_uzytkownika: 9, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-ownika: 24, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 395, id_uzytkownika: 53, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 262, id_uzytkownika: 75, ocena: 3, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 183, id_uzytkownika: 10, ocena: 0, data_glosowania: 2025-01-22 21:52:34
-ownika: 44, ocena: 5, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 129, id_uzytkownika: 40, ocena: 4, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 133, id_uzytkownika: 84, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 329, id_uzytkownika: 39, ocena: 2, data_glosowania: 2025-01-22 21:52:34
-id_filmu: 250, id_uzytkownika: 6, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 300, id_uzytkownika: 49, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 46, id_uzytkownika: 36, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 772, id_uzytkownika: 75, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 126, id_uzytkownika: 94, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 894, id_uzytkownika: 14, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 707, id_uzytid_filmu: 853, id_uzytkownika: 49, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 954, id_uzytkownika: 49, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 392, id_uzytkownika: 44, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 973, id_uzytkownika: 93, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 85, id_uzytkownika: 11, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 770, id_uzytkownika: 82, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 449, id_uzyid_filmu: 163, id_uzytkownika: 75, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 595, id_uzytkownika: 18, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 141, id_uzytkownika: 86, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 956, id_uzytkownika: 42, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 339, id_uzytkownika: 88, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 564, id_uzytkownika: 86, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 215, id_uzkownika: 58, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 553, id_uzytkownika: 6, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 493, id_uzytkownika: 13, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 478, id_uzytkownika: 53, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-tkownika: 19, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 843, id_uzytkownika: 42, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 392, id_uzytkownika: 67, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 489, id_uzytkownika: 2, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-ytkownika: 79, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 911, id_uzytkownika: 27, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 641, id_uzytkownika: 3, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 829, id_uzytkownika: 7, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 42, id_uzytkownika: 10, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 281, id_uzytkownika: 10, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 901, id_uzytkownika: 64, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 428, id_uzytkownika: 28, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 540, id_uzytkownika: 17, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 660, id_uzytkownika: 45, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 294, id_uzyid_filmu: 454, id_uzytkownika: 2, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 264, id_uzytkownika: 82, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 271, id_uzytkownika: 2, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 708, id_uzytkownika: 22, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 866, id_uzytkownika: 48, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 510, id_uzytkownika: 75, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 305, id_uzyttkownika: 88, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 66, id_uzytkownika: 74, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 571, id_uzytkownika: 38, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 192, id_uzytkownika: 31, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 203, id_uzytkownika: 75, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 867, id_uzytkownika: 70, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 753, id_uzytkownika: 99, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 611, id_uzytkownika: 91, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 920, id_uzytkownika: 53, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 5, id_uzytkownika: 43, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 927, id_uzytid_filmu: 993, id_uzytkownika: 53, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 348, id_uzytkownika: 21, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 628, id_uzytkownika: 65, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 2, id_uzytkownika: 8, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 808, id_uzytkownika: 95, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 148, id_uzytkownika: 10, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 974, id_uzytkkownika: 0, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 536, id_uzytkownika: 98, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 645, id_uzytkownika: 98, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 840, id_uzytkownika: 83, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-kownika: 67, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 656, id_uzytkownika: 42, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 307, id_uzytkownika: 12, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 180, id_uzytkownika: 58, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 257, id_uzytkownika: 6, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 944, id_uzytkownika: 26, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 16, id_uzytkownika: 51, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 900, id_uzytkownika: 34, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 208, id_uzytkownika: 46, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 292, id_uzytkownika: 97, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 79, id_uzytkownika: 76, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 96, id_uzytkownika: 23, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 425, id_uzytkownika: 37, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 839, id_uzytkownika: 87, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-ownika: 98, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 399, id_uzytkownika: 33, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 378, id_uzytkownika: 42, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 990, id_uzytkownika: 26, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 242, id_uzytkownika: 22, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 102, id_uzytkownika: 27, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 615, id_uzytkownika: 97, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 136, id_uzytkownika: 72, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 196, id_uzytkownika: 78, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 52, id_uzytkownika: 41, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 733, id_uzytkownika: 17, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 408, id_uzytkownika: 58, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 455, id_uzytkownika: 20, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 82, id_uzytkownika: 91, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 365, id_uzytkownika: 53, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 405, id_uzytkownika: 7, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 540, id_uzytkownika: 90, ocena: 3, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 817, id_uzytkownika: 68, ocena: 2, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 733, id_uzytkownika: 41, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 170, id_uzytkownika: 5, ocena: 0, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 244, id_uzytkownika: 75, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 709, id_uzytkownika: 85, ocena: 4, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 306, id_uzytkownika: 41, ocena: 5, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 570, id_uzytkownika: 53, ocena: 1, data_glosowania: 2025-01-22 21:53:42
-id_filmu: 380, id_uzytkownika: 15, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 452, id_uzytkownika: 70, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 321, id_uzytkownika: 75, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 968, id_uzytkownika: 30, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 934, id_uzytkownika: 37, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 525, id_uzytkownika: 59, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 545, id_uzid_filmu: 134, id_uzytkownika: 82, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 503, id_uzytkownika: 75, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 195, id_uzytkownika: 9, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 839, id_uzytkownika: 69, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 285, id_uzytkownika: 53, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 827, id_uzytkownika: 24, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 546, id_uzyid_filmu: 13, id_uzytkownika: 34, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 803, id_uzytkownika: 72, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 200, id_uzytkownika: 0, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 371, id_uzytkownika: 56, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 75, id_uzytkownika: 37, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 277, id_uzytkownika: 89, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 528, id_uzytkid_filmu: 791, id_uzytkownika: 41, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 574, id_uzytkownika: 57, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 430, id_uzytkownika: 34, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 997, id_uzytkownika: 21, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 942, id_uzytkownika: 15, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 171, id_uzytkownika: 13, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 562, id_uzid_filmu: 725, id_uzytkownika: 46, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 723, id_uzytkownika: 17, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 144, id_uzytkownika: 75, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 902, id_uzytkownika: 78, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 200, id_uzytkownika: 93, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 773, id_uzytkownika: 53, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 864, id_uzytkownika: 2, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 912, id_uzytkownika: 71, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 215, id_uzytkownika: 20, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 289, id_uzytkownika: 94, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-tkownika: 54, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 178, id_uzytkownika: 12, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 39, id_uzytkownika: 3, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 774, id_uzytkownika: 9, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-ownika: 88, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 898, id_uzytkownika: 95, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 727, id_uzytkownika: 42, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 456, id_uzytkownika: 80, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-ytkownika: 85, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 556, id_uzytkownika: 49, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 541, id_uzytkownika: 58, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 192, id_uzytkownika: 66, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-ytkownika: 61, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 339, id_uzytkownika: 28, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 679, id_uzytkownika: 23, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 505, id_uzytkownika: 9, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 840, id_uzytkownika: 57, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 96, id_uzytkownika: 83, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 447, id_uzytkownika: 49, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 857, id_uzytkownika: 14, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 326, id_uzytkownika: 0, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 180, id_uzytkownika: 62, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 879, id_uzytid_filmu: 733, id_uzytkownika: 74, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 693, id_uzytkownika: 99, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 907, id_uzytkownika: 48, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 212, id_uzytkownika: 60, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 667, id_uzytkownika: 80, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 127, id_uzytkownika: 62, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 831, id_uzid_filmu: 250, id_uzytkownika: 9, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 218, id_uzytkownika: 70, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 675, id_uzytkownika: 96, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 490, id_uzytkownika: 14, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 686, id_uzytkownika: 22, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 9, id_uzytkownika: 34, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 891, id_uzytkkownika: 44, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 313, id_uzytkownika: 48, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 566, id_uzytkownika: 28, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 608, id_uzytkownika: 77, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-ytkownika: 42, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 543, id_uzytkownika: 34, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 403, id_uzytkownika: 6, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 401, id_uzytkownika: 16, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-ownika: 43, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 823, id_uzytkownika: 94, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 673, id_uzytkownika: 4, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 419, id_uzytkownika: 57, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 429, id_uzytkownika: 91, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 773, id_uzytkownika: 22, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 440, id_uzytkownika: 68, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 748, id_uzytkownika: 5, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 197, id_uzytkownika: 14, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 333, id_uzytkownika: 43, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 575, id_uzytkownika: 60, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 786, id_uzytkownika: 96, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 512, id_uzytkownika: 47, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 842, id_uzytkownika: 33, ocena: 1, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 924, id_uzytkownika: 85, ocena: 5, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 629, id_uzytkownika: 94, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 863, id_uzytkownika: 33, ocena: 0, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 817, id_uzytkownika: 49, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 690, id_uzytkownika: 12, ocena: 4, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 390, id_uzytkownika: 77, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 272, id_uzytkownika: 54, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 651, id_uzytkownika: 17, ocena: 3, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 0, id_uzytkownika: 47, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 155, id_uzytkownika: 66, ocena: 2, data_glosowania: 2025-01-22 21:55:25
-id_filmu: 449, id_uzytkownika: 57, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 500, id_uzytkownika: 29, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 967, id_uzytkownika: 99, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 845, id_uzytkownika: 91, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 691, id_uzytkownika: 11, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 392, id_uzytkownika: 74, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 493, id_uzid_filmu: 648, id_uzytkownika: 35, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 460, id_uzytkownika: 50, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 309, id_uzytkownika: 52, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 552, id_uzytkownika: 11, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 86, id_uzytkownika: 67, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 988, id_uzytkownika: 6, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 916, id_uzytid_filmu: 660, id_uzytkownika: 55, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 58, id_uzytkownika: 15, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 777, id_uzytkownika: 22, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 335, id_uzytkownika: 89, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 351, id_uzytkownika: 60, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 363, id_uzytkownika: 79, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 371, id_uzykownika: 8, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 570, id_uzytkownika: 45, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 598, id_uzytkownika: 97, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 376, id_uzytkownika: 48, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-tkownika: 25, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 539, id_uzytkownika: 58, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 123, id_uzytkownika: 2, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 483, id_uzytkownika: 59, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-ytkownika: 98, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 96, id_uzytkownika: 82, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 220, id_uzytkownika: 25, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 626, id_uzytkownika: 21, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 352, id_uzytkownika: 52, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 165, id_uzytkownika: 75, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 436, id_uzytkownika: 47, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 56, id_uzytkownika: 95, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 152, id_uzytkownika: 61, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 616, id_uzytkownika: 61, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 550, id_uzyid_filmu: 68, id_uzytkownika: 55, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 921, id_uzytkownika: 45, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 324, id_uzytkownika: 0, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 386, id_uzytkownika: 27, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 301, id_uzytkownika: 93, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 51, id_uzytkownika: 27, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 58, id_uzytkotkownika: 71, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 632, id_uzytkownika: 70, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 16, id_uzytkownika: 90, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 298, id_uzytkownika: 70, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 241, id_uzytkownika: 90, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 975, id_uzytkownika: 16, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 257, id_uzytkownika: 58, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 950, id_uzytkownika: 30, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 936, id_uzytkownika: 82, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 74, id_uzytkownika: 36, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 755, id_uzywnika: 85, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 931, id_uzytkownika: 84, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 788, id_uzytkownika: 84, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 691, id_uzytkownika: 35, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 14, id_uzytkownika: 56, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 537, id_uzytkownika: 52, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 238, id_uzytkownika: 42, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 353, id_uzytkownika: 99, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 204, id_uzytkownika: 57, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 522, id_uzytkownika: 92, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 649, id_uzyid_filmu: 608, id_uzytkownika: 80, ocena: 3, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 835, id_uzytkownika: 34, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 678, id_uzytkownika: 32, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 484, id_uzytkownika: 67, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 613, id_uzytkownika: 9, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 317, id_uzytkownika: 40, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 57, id_uzytid_filmu: 278, id_uzytkownika: 97, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 339, id_uzytkownika: 87, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 385, id_uzytkownika: 86, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 421, id_uzytkownika: 33, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 29, id_uzytkownika: 81, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 5, id_uzytkownika: 78, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 529, id_uzytkid_filmu: 278, id_uzytkownika: 5, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 429, id_uzytkownika: 19, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 943, id_uzytkownika: 10, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 398, id_uzytkownika: 75, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 593, id_uzytkownika: 99, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 311, id_uzytkownika: 59, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 990, id_uzytkownika: 13, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 868, id_uzytkownika: 66, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 158, id_uzytkownika: 33, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 400, id_uzytkownika: 24, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-tkownika: 77, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 589, id_uzytkownika: 41, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 406, id_uzytkownika: 90, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 30, id_uzytkownika: 13, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-tkownika: 31, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 633, id_uzytkownika: 2, ocena: 5, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 236, id_uzytkownika: 94, ocena: 0, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 83, id_uzytkownika: 6, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-kownika: 61, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 966, id_uzytkownika: 35, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 502, id_uzytkownika: 61, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 576, id_uzytkownika: 83, ocena: 4, data_glosowania: 2025-01-22 21:56:13
-ownika: 44, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 317, id_uzytkownika: 5, ocena: 2, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 403, id_uzytkownika: 88, ocena: 1, data_glosowania: 2025-01-22 21:56:13
-id_filmu: 987, id_uzytkownika: 15, ocena: 4, data_glosowania: 2025-01-22 21:56:13
+id_filmu: 28, id_uzytkownika: 44, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 49, id_uzytkownika: 93, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 583, id_uzytkownika: 90, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 95, id_uzytkownika: 81, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 235, id_uzytkownika: 27, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 494, id_uzytkownika: 8, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 337, id_uzytkoid_filmu: 480, id_uzytkownika: 0, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 370, id_uzytkownika: 81, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 910, id_uzytkownika: 48, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 892, id_uzytkownika: 15, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 472, id_uzytkownika: 74, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 417, id_uzytkownika: 58, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 143, id_uzyid_filmu: 649, id_uzytkownika: 55, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 850, id_uzytkownika: 8, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 676, id_uzytkownika: 37, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 45, id_uzytkownika: 23, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 164, id_uzytkownika: 84, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 725, id_uzytkownika: 93, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 687, id_uzytid_filmu: 697, id_uzytkownika: 5, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 940, id_uzytkownika: 17, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 671, id_uzytkownika: 69, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 327, id_uzytkownika: 91, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 65, id_uzytkownika: 94, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 55, id_uzytkownika: 80, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 459, id_uzytktkownika: 1, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 404, id_uzytkownika: 16, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 415, id_uzytkownika: 42, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 944, id_uzytkownika: 19, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+kownika: 18, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 984, id_uzytkownika: 49, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 239, id_uzytkownika: 98, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 258, id_uzytkownika: 75, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+ownika: 6, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 870, id_uzytkownika: 20, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 665, id_uzytkownika: 59, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 386, id_uzytkownika: 9, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+wnika: 81, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 43, id_uzytkownika: 12, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 817, id_uzytkownika: 38, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 190, id_uzytkownika: 23, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 803, id_uzytkownika: 33, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 880, id_uzytkownika: 35, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 77, id_uzytkownika: 16, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 390, id_uzytkownika: 84, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 786, id_uzytkownika: 58, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 373, id_uzytkownika: 6, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 675, id_uzytid_filmu: 941, id_uzytkownika: 21, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 939, id_uzytkownika: 57, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 646, id_uzytkownika: 24, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 886, id_uzytkownika: 3, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 25, id_uzytkownika: 22, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 950, id_uzytkownika: 90, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 940, id_uzytid_filmu: 952, id_uzytkownika: 19, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 110, id_uzytkownika: 86, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 168, id_uzytkownika: 3, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 385, id_uzytkownika: 32, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 578, id_uzytkownika: 99, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 981, id_uzytkownika: 98, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 488, id_uzyid_filmu: 300, id_uzytkownika: 50, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 203, id_uzytkownika: 64, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 570, id_uzytkownika: 56, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 27, id_uzytkownika: 98, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 22, id_uzytkownika: 73, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 433, id_uzytkownika: 28, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 170, id_uzytid_filmu: 917, id_uzytkownika: 10, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 443, id_uzytkownika: 66, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 52, id_uzytkownika: 26, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 461, id_uzytkownika: 20, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 176, id_uzytkownika: 46, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 184, id_uzytkownika: 55, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 555, id_uzykownika: 85, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 630, id_uzytkownika: 73, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 689, id_uzytkownika: 72, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 510, id_uzytkownika: 30, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 287, id_uzytkownika: 44, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 888, id_uzytkownika: 64, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 918, id_uzytkownika: 53, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 148, id_uzytkownika: 81, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 991, id_uzytkownika: 93, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 873, id_uzytkownika: 24, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 585, id_uztkownika: 70, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 717, id_uzytkownika: 11, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 224, id_uzytkownika: 95, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 857, id_uzytkownika: 94, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+kownika: 83, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 369, id_uzytkownika: 54, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 899, id_uzytkownika: 31, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 895, id_uzytkownika: 11, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+tkownika: 36, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 726, id_uzytkownika: 25, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 534, id_uzytkownika: 50, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 303, id_uzytkownika: 51, ocena: 2, data_glosowania: 2025-01-22 21:58:43
+kownika: 86, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 125, id_uzytkownika: 52, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 345, id_uzytkownika: 95, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 843, id_uzytkownika: 33, ocena: 0, data_glosowania: 2025-01-22 21:58:43
+ytkownika: 62, ocena: 5, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 662, id_uzytkownika: 87, ocena: 4, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 321, id_uzytkownika: 33, ocena: 1, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 768, id_uzytkownika: 45, ocena: 3, data_glosowania: 2025-01-22 21:58:43
+id_filmu: 259, id_uzytkownika: 41, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 494, id_uzytkownika: 48, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 11, id_uzytkownika: 13, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 592, id_uzytkownika: 19, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 800, id_uzytkownika: 14, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 575, id_uzytkownika: 35, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 865, id_uzyid_filmu: 476, id_uzytkownika: 28, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 597, id_uzytkownika: 73, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 474, id_uzytkownika: 81, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 188, id_uzytkownika: 91, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 658, id_uzytkownika: 68, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 305, id_uzytkownika: 29, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 22, id_uzyid_filmu: 239, id_uzytkownika: 40, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 780, id_uzytkownika: 91, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 5, id_uzytkownika: 62, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 893, id_uzytkownika: 79, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 368, id_uzytkownika: 0, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 383, id_uzytkownika: 62, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 789, id_uzytkid_filmu: 350, id_uzytkownika: 0, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 770, id_uzytkownika: 98, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 259, id_uzytkownika: 30, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 741, id_uzytkownika: 24, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 374, id_uzytkownika: 29, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 468, id_uzytkownika: 14, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 766, id_uzytkownika: 84, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 222, id_uzytkownika: 74, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 266, id_uzytkownika: 21, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 214, id_uzytkownika: 12, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+ownika: 15, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 467, id_uzytkownika: 92, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 146, id_uzytkownika: 37, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 714, id_uzytkownika: 79, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 800, id_uzytkownika: 36, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 260, id_uzytkownika: 69, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 818, id_uzytkownika: 45, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 534, id_uzytkownika: 11, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 705, id_uzytkownika: 30, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 169, id_uzytkownika: 51, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 844, id_uztkownika: 39, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 644, id_uzytkownika: 5, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 645, id_uzytkownika: 36, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 376, id_uzytkownika: 99, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 324, id_uzytkownika: 0, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 686, id_uzytkownika: 60, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 515, id_uzytkownika: 51, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 297, id_uzytkownika: 93, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 269, id_uzytkownika: 0, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 705, id_uzytkownika: 81, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 510, id_uzytid_filmu: 585, id_uzytkownika: 5, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 77, id_uzytkownika: 77, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 23, id_uzytkownika: 68, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 553, id_uzytkownika: 84, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 937, id_uzytkownika: 80, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 188, id_uzytkownika: 90, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 626, id_uzytktkownika: 44, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 28, id_uzytkownika: 30, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 643, id_uzytkownika: 7, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 948, id_uzytkownika: 25, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+kownika: 90, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 84, id_uzytkownika: 74, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 210, id_uzytkownika: 28, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 101, id_uzytkownika: 94, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 129, id_uzytkownika: 75, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 451, id_uzytkownika: 29, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 37, id_uzytkownika: 69, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 963, id_uzytkownika: 74, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 348, id_uzytkownika: 36, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 963, id_uzytkownika: 18, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 71, id_uzytownika: 25, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 60, id_uzytkownika: 64, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 649, id_uzytkownika: 38, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 3, id_uzytkownika: 27, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+ytkownika: 92, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 737, id_uzytkownika: 78, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 793, id_uzytkownika: 17, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 342, id_uzytkownika: 79, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 658, id_uzytkownika: 49, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 560, id_uzytkownika: 66, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 878, id_uzytkownika: 88, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 675, id_uzytkownika: 93, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 535, id_uzytkownika: 21, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 757, id_uzytkownika: 65, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 34, id_uzyid_filmu: 657, id_uzytkownika: 33, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 906, id_uzytkownika: 67, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 22, id_uzytkownika: 24, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 522, id_uzytkownika: 44, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 845, id_uzytkownika: 78, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 855, id_uzytkownika: 67, ocena: 5, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 783, id_uzykownika: 1, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 509, id_uzytkownika: 17, ocena: 2, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 774, id_uzytkownika: 58, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 108, id_uzytkownika: 74, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+tkownika: 18, ocena: 3, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 388, id_uzytkownika: 17, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 624, id_uzytkownika: 9, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 578, id_uzytkownika: 15, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+tkownika: 61, ocena: 4, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 611, id_uzytkownika: 91, ocena: 0, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 671, id_uzytkownika: 60, ocena: 1, data_glosowania: 2025-01-22 21:58:49
+id_filmu: 257, id_uzytkownika: 75, ocena: 1, data_glosowania: 2025-01-22 21:58:49
