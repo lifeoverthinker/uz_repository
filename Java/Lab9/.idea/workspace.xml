@@ -5,36 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="173b6d96-6de2-4d1e-b3e2-54e86cf2752d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/out/production/Lab2/lab2_p/zad6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/out/production/Lab2/lab2_p/zad6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/lab2_p/zad4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/lab2_p/zad4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/lab2_p/zad6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/lab2_p/zad6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/lab3_p/zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/lab3_p/zad2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/lab3_p/zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/lab3_p/zad3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab4/src/lab4_p/zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/src/lab4_p/zad1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab4/src/lab4_p/zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/src/lab4_p/zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/src/lab5_p/AutoKomis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/AutoKomis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Zad4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab8/src/lab8_p/Zad5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9_p/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9_p/StudentInstytut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9_p/StudentUZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9_p/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9_p/Zad1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/src/lab5_p/Samochod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/src/lab5_p/Samochod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/src/lab5_p/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/src/lab5_p/Zad1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/src/lab5_p/Zad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/src/lab5_p/Zad3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2qNo6H4DMchYEjCVGSpKkGow8JB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Test.executor": "Run",
+    "Application.Zad1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -43,6 +63,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734512219295</updated>
       <workItem from="1734512220240" duration="601000" />
+      <workItem from="1737577692465" duration="789000" />
     </task>
     <servers />
   </component>
