@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e72be5e4-a102-4e95-aa96-f80d89c2e640" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/Zad4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/zad2/MojWyjatek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/zad2/Zad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/zad3/Zad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/Pralka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/Zad6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/elementyWykonawcze/Czujnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/elementyWykonawcze/Elektrozawor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/elementyWykonawcze/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/elementyWykonawcze/Pompa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/elementyWykonawcze/SilnikInwerterowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/elementyWykonawcze/Sterownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/komponenty/Beben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/komponenty/Filtr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/komponenty/Grzalka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6_p/komponenty/PojemnikNaDetergenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab11/src/lab11_p/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/zad3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab11/src/lab11_p/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab11/src/lab11_p/MyCustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab11/src/lab11_p/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/zad3/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab11/src/lab11_p/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11/src/lab11_p/Zad1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab11/src/lab11_p/Zad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6_p/zad1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2s1lcL3JD1PVLzrzJT6f0ZP6oLW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Zad6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e72be5e4-a102-4e95-aa96-f80d89c2e640" name="Changes" comment="" />
+      <created>1737631041008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737631041008</updated>
+      <workItem from="1737631042031" duration="12591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
